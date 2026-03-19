@@ -1,0 +1,1 @@
+RF.py in code directory is the main script. model is the working directory, where predictors/total.csv is the data file.
